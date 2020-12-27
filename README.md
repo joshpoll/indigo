@@ -1,6 +1,4 @@
-# ReScript Project Template
-
-The only official ReScript starter template.
+# Indigo
 
 ## Installation
 
@@ -17,5 +15,5 @@ npm install
 ## Run
 
 ```sh
-node src/Demo.bs.js
+node src/Main.bs.js
 ```
