@@ -1,5 +1,11 @@
 # Indigo
 
+For more information about the Indigo solver, check the following resources:
+- https://constraints.cs.washington.edu/solvers/indigo-tr.html
+- https://ktiml.mff.cuni.cz/~bartak/constraints/ch_solvers.html
+
+Indigo handles _acyclic_ constraint graphs with _inequality_ constraints.
+
 ## Installation
 
 ```sh
